@@ -1,0 +1,22 @@
+html, body{width:100%;height:100%;position:relative;overflow:hidden;font: 12px "Î¢ÈíÑÅºÚ";}
+*{margin:0;padding:0;}
+img{border:0;}
+a{text-decoration:none;}
+
+body{background: transparent url("/rzrk/images/background/login-bg.jpg") center center no-repeat;position: relative;min-width:480px;min-height:640px;}
+body div.feature{position: absolute;top:50%;left:35%;margin: -100px 0 0 -226px;}
+body div.login-box{width:200px;min-height:220px;position:absolute;top:20%;right:20%;background: #2e6ed1 url("/rzrk/images/background/welcome1.png") center 35px no-repeat;padding:90px 50px 40px;}
+body div.login-box input#username, body div.login-box input#password{display: block;height: 32px;width:188px;line-height: 32px;border: 1px solid #4f93e1;padding:0 5px;background-color:#2e6ed1;color: #ddd;}
+body div.login-box input#password{margin:20px 0 10px 0;}
+body div.login-box a.btn{display: block;height: 44px;line-height: 44px;color: #ffffff;margin-top: 20px;font-weight: bold;text-align: center;background-color:#4f93e1;}
+body div.login-box label{display: inline-block;margin-top: 10px;color:#fff;}
+body div.login-box label input{vertical-align: middle;}
+body footer{color:#fff;background-color: RGBA(0,0,0, 0.4);height:100px;line-height:100px;text-align: center;position:absolute;left:0;right:0;bottom:0;opacity:0.5;}
+
+/* window */
+.panel.window{background-color:#5093e2;border:0;}
+.panel.window .panel-title{color:#fff;font-weight:normal;}
+.window-proxy{border: 1px dashed #5093e2;background-color: #5093e2;filter: alpha(opacity=10);opacity: 0.10;}
+.window-proxy-mask, .window-mask{background: #eee;filter: alpha(opacity=1);opacity: 0.01;}
+.window-shadow{display: none!important;}
+

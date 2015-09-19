@@ -1,0 +1,9 @@
+body{overflow-x: hidden;}
+select{width:173px;padding:1px;}
+ul{border: 1px solid gray;line-height: 24px;list-style: none;padding:0 0 10px 10px;margin:0;}
+ul:after{display: block;height: 0;content:"";clear: both;}
+ul li{float:left;background-color: #eff2f7;border: 1px solid #ccd5e4;margin:10px 10px 0 0;padding:0 5px;cursor: default;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+ul li span{margin-left: 5px;font-weight: bold;color: #a6b3cf;text-decoration: none;cursor: pointer;}
+ul li.addColleague{border:0;background-color: transparent;}
+ul li.addColleague a{color:#37a;text-decoration: none;}
+.combobox-item{cursor: pointer;}

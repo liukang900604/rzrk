@@ -1,0 +1,119 @@
+html, body{width:100%;height:100%;position:relative;font-size:12px;overflow:hidden;}
+*{margin:0;padding:0;}
+img{border:0;}
+a{text-decoration:none;}
+
+.nav{width:156px;/*height:100%;*/background-color:#2e3239;position:absolute;left:0;top:0;bottom:0;}
+.nav .logo{background: transparent url("/rzrk/images/background/icons/logo.png") center center no-repeat;height:60px;}
+.nav nav.main-menu{position:absolute;top:60px;left:0;bottom:0;width:126px;}
+.nav ul li a{display:block;height:40px;line-height:40px;color:#fff;cursor:pointer;padding:0 10px 0 8px;position:relative;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.nav ul li a:hover{background-color:#3d4751;}
+.nav ul li a.expand{background-color:#5093e2;}
+.nav ul li a i{background: transparent url("/rzrk/images/background/icons/menu-icons.png") 0 0 scroll no-repeat;width:20px;height:24px;display:inline-block;vertical-align:middle;margin:0 5px 0 0;}
+.nav ul li a i.icon.i-1{background-position:0 0;}
+.nav ul li a i.icon.i-2{background-position:0 -25px;}
+.nav ul li a i.icon.i-3{background-position:0 -49px;}
+.nav ul li a i.icon.i-4{background-position:0 -73px;}
+.nav ul li a i.icon.i-5{background-position:0 -97px;}
+.nav ul li a i.icon.i-6{background-position:0 -121px;}
+.nav ul li a i.icon.i-7{background-position:0 -145px;}
+.nav ul li a i.icon.i-8{background-position:0 -169px;}
+.nav ul li a i.icon.i-9{background-position:0 -193px;}
+.nav ul li a i.icon.i-10{background-position:0 -217px;}
+.nav ul li a i.icon.i-11{background-position:0 -241px;}
+.nav ul li a i.icon.i-12{background-position:0 -265px;}
+.nav ul li a i.icon.i-13{background-position:0 -289px;}
+.nav ul li a i.icon.i-14{background-position:0 -313px;}
+.nav ul li a i.icon.arrows{background-position:right -27px;position:absolute;right:0;top:9px;}
+.nav ul li a.expand i.icon.arrows{background-position:right 0;}
+.nav ul li ul.sub-menu{background-color:#2e3339;padding:1px 2px 2px;display:none;}
+.nav ul li ul.sub-menu li a{margin:1px 0 0;padding:0 10px;background-color:#434753;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;}
+.nav ul li ul.sub-menu li a:hover{background-color:#5c6373;}
+
+.nav ul li ul.sub-menu li a i.icon.i-1,.nav ul li ul.sub-menu li a i.icon.i-2,.nav ul li ul.sub-menu li a i.icon.i-3,
+.nav ul li ul.sub-menu li a i.icon.i-4,.nav ul li ul.sub-menu li a i.icon.i-5,.nav ul li ul.sub-menu li a i.icon.i-6,
+.nav ul li ul.sub-menu li a i.icon.i-7,.nav ul li ul.sub-menu li a i.icon.i-8,.nav ul li ul.sub-menu li a i.icon.i-9,
+.nav ul li ul.sub-menu li a i.icon.i-10,.nav ul li ul.sub-menu li a i.icon.i-11,.nav ul li ul.sub-menu li a i.icon.i-12,
+.nav ul li ul.sub-menu li a i.icon.i-13,.nav ul li ul.sub-menu li a i.icon.i-14{margin:0 5px 0 6px;}
+
+.nav .overlay{/* border: 1px solid #f00; */width:10px;height:100%;position: absolute;right:-7px;z-index:2;}
+
+.container{background-color:#fff;position:absolute;left: 157px;top:0;right:0;bottom:0;z-index:0;}
+.container header{height:60px;line-height:60px;display:block;position:relative;background: transparent url("/rzrk/images/background/icons/sloganeer.png") 0 center no-repeat;}
+.container header ul.tools{position:absolute;top:0;right:70px;color:#555;}
+.container header ul.tools li{display:inline;margin:0 5px;}
+.container header ul.tools li a{display:inline-block;width:20px;height:20px;background: transparent url("/rzrk/images/background/icons/tools.png") 0 0 scroll no-repeat;vertical-align:middle;opacity:0.5;}
+.container header ul.tools li a:hover{opacity:1;}
+.container header ul.tools li a.t-1{background-position:2px -137px;}
+.container header ul.tools li a.t-2{background-position:-30px -137px;}
+.container header ul.tools li a.t-3{background-position:-66px -137px;}
+.container header ul.tools li a.t-4{background-position:-104px -137px;}
+.container header ul.tools li a.t-5{background-position:-138px -137px;}
+.container header ul.tools li em{font-weight:bold;font-style:normal;}
+.container header span.sysmsg{position: absolute;top:16px;right:107px;color:#fff;background-color:red;display:inline-block;height:18px;width:18px;line-height:18px;text-align: center;-webkit-border-radius: 10px;-moz-border-radius: 10px;border-radius: 10px;cursor: pointer;}
+.container header a.add-tools{width:50px;height:60px;display:block;position:absolute;top:0;right:0;background: #4f93e1 url("/rzrk/images/background/icons/tools.png") left top scroll no-repeat;}
+
+.container div.body{background-color:#edeff5;position:absolute;top:61px;right:0;bottom:0;left:0;}
+.sub-menu{display:none;}
+
+.accordion .panel-title{color: #666;}
+.accordion .accordion-header-selected .panel-title{color: #666;}
+
+.mCSB_outside + .mCS-minimal.mCSB_scrollTools_vertical, .mCSB_outside + .mCS-minimal-dark.mCSB_scrollTools_vertical{right:-4px;}
+
+/* windows */
+.panel.window{background-color:#5093e2;border:0;}
+.panel.window .panel-title{color:#fff;font-weight:normal;}
+.window-proxy{border: 1px dashed #5093e2;background-color: #5093e2;filter: alpha(opacity=10);opacity: 0.10;}
+.window-proxy-mask, .window-mask{background: #eee;filter: alpha(opacity=1);opacity: 0.01;}
+/* tabs */
+ul.tabs{background-color: #eeeff4;padding:0;}
+ul.tabs li a.tabs-inner{background-color: #eeeff4;color:#5093e2;border:0;}
+ul.tabs li a.tabs-inner:hover{color:#5093e2;}
+ul.tabs li a.tabs-close{background-position:-33px -2px;}
+ul.tabs li a:hover.tabs-close{background-color: transparent;}
+ul.tabs li.tabs-selected a.tabs-inner{background-color: #5093e2;color: #fff;font-weight:normal;height:30px;}
+ul.tabs li.tabs-selected a.tabs-inner:after{content:"";width: 0;height: 0;overflow: hidden;border: 6px solid transparent;border-bottom-color:#fff;position:absolute;left:48%;bottom:0;margin-left:-3px;}
+ul.tabs li.tabs-selected a.tabs-close{background-position:-33px -3px;background: url('/rzrk/images/background/icons/tabs_icons.png') no-repeat -34px center;}
+
+.panel-tool a:hover, .tabs li.tabs-selected a.tabs-close,
+.tabs-p-tool a:hover, .tabs-scroller-over{background-color: transparent;}
+
+span.error{color:red;}
+.ez-window .layout-panel-center{padding: 5px;}
+.ez-window .center div.row{margin-top: 5px;}
+.ez-window .center label{display: inline-block;text-align: right;}
+.ez-window .center label.l80{width: 80px;}
+.ez-window .center label.l120{width: 120px;}
+.ez-window .center select{padding: 2px 5px;border: 1px solid #999;width: 150px;margin: 2px;}
+.ez-window .center input[type=text],
+.ez-window .center input[type=password]{padding: 2px 5px;border: 1px solid #999;}
+.ez-window .center input[readonly],
+.ez-window .center select[disabled]{background-color: #eee;color: #000;}
+.ez-window .center input[type=radio]{vertical-align: middle;margin: 0 0 0 5px;}
+
+.ui-multiselect-menu{font-size: 14px!important;}
+
+#posClockOn input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+.clockOn{display:none;}
+
+.ez-window .userList{position: relative;height:380px;}
+.ez-window .userList div.searchBar{padding:10px 5px;}
+.ez-window .userList div.searchBar input{padding:0 3px;margin:0 10px;}
+.ez-window .userList .searchBtn input{padding:0 5px;}
+.ez-window .userList div.left{width:180px;height:300px;border: 1px solid #ccc;position: absolute;top:40px;left:0;overflow: auto;}
+.ez-window .userList div.right{width:180px;height:300px;border: 1px solid #ccc;position: absolute;top:40px;right:0;overflow: auto;}
+.ez-window .userList table{border-collapse:collapse;width:100%;}
+.ez-window .userList table td{padding: 5px 5px;border: 1px solid #ccc;cursor: pointer;color:#666;}
+.ez-window .userList table tr:hover{background-color: #F0FFFF;}
+.ez-window .userList table tr.selected{background-color: #CCFFFF;}
+.ez-window .userList .buttons{padding-top:120px;}
+.ez-window .userList .buttons button{display:block;margin:0 auto;}
+.ez-window .userList .buttons button.toLeft{margin-top: 10px;}
+.messager-window .panel-tool .panel-tool-close{display:none;}
+
+/* buttons */
+.easyui-linkbutton .l-btn-left{background-color:#5093e2;color:#fff;}
+
+/* my focus window */
+#focusWindow .panel .panel-header .panel-title{color:#777;}

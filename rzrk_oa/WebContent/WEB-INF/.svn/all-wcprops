@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/myproject/!svn/ver/5433/rzrk_oa/WebContent/WEB-INF
+END
+urlrewrite.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/urlrewrite.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/5375/rzrk_oa/WebContent/WEB-INF/web.xml
+END

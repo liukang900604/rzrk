@@ -1,0 +1,6 @@
+.tabs li a.tabs-close{background-color: #ddd;}
+.tabs li a:hover.tabs-close{background-color: #ccc;}
+.tabs li.tabs-selected a.tabs-inner{background-color: #0088cc;color: #fff;font-weight: normal;}
+.panel-tool a:hover, .tabs li.tabs-selected a.tabs-close,
+.tabs-p-tool a:hover, .tabs-scroller-over{background-color: transparent;}
+.tabs-scroller-left, .tabs-scroller-right{background-color: #0088cc;}

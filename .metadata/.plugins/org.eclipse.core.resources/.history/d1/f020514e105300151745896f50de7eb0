@@ -1,0 +1,220 @@
+/**
+ * Project Name: rzrk Web
+ * Confidential and Proprietary                                                                
+ * Copyright (C) 2013 By                                                                                     
+ * rzrk Company                 
+ * All Rights Reserved                                                                                                                                                                                                                       
+ */
+package com.rzrk.action.admin;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import javax.annotation.Resource;
+import javax.servlet.http.Cookie;
+
+import org.apache.commons.lang.StringUtils;
+import org.apache.struts2.convention.annotation.ParentPackage;
+
+import com.rzrk.entity.Admin;
+import com.rzrk.entity.ContractCategory;
+import com.rzrk.entity.Project;
+import com.rzrk.entity.RootContractCategory;
+import com.rzrk.service.ArticleService;
+import com.rzrk.service.MemberService;
+import com.rzrk.service.RootContractCategoryService;
+import com.rzrk.service.SystemMessageService;
+
+/**
+ * 后台Action类 - 后台页面
+ */
+
+@ParentPackage("admin")
+public class PageAction extends BaseAdminAction {
+
+	private static final long serialVersionUID = 3148667965663281403L;
+
+	@Resource(name = "systemMessageServiceImpl")
+	private SystemMessageService systemService;
+	@Resource(name = "memberServiceImpl")
+	private MemberService memberService;
+	@Resource(name = "articleServiceImpl")
+	private ArticleService articleService;
+	@Resource(name="rootContractCategoryServiceImpl")
+	private RootContractCategoryService rootContractCategoryService;
+	
+	private List<RootContractCategory> rootContractCagetoryList;
+	
+	private List<RootContractCategory> rootProjectCagetoryList;
+	
+	
+
+	public List<RootContractCategory> getRootProjectCagetoryList() {
+		return rootProjectCagetoryList;
+	}
+
+	public void setRootProjectCagetoryList(
+			List<RootContractCategory> rootProjectCagetoryList) {
+		this.rootProjectCagetoryList = rootProjectCagetoryList;
+	}
+
+	public List<RootContractCategory> getRootContractCagetoryList() {
+		return rootContractCagetoryList;
+	}
+
+	public void setRootContractCagetoryList(
+			List<RootContractCategory> rootContractCagetoryList) {
+		this.rootContractCagetoryList = rootContractCagetoryList;
+	}
+
+	public String main() {
+		Cookie[] cookieArray = this.getRequest().getCookies();
+		if(cookieArray != null && cookieArray.length > 0){
+			for(Cookie cookie :cookieArray){
+				if(cookie.getName().equals("fiterUrlName")){//如果存在此cookie
+					String url = cookie.getValue();
+				}
+			}
+		}
+		String lastCheckintime = "2015-03-11 11:11:11";
+		getRequest().setAttribute("lastCheckintime", lastCheckintime);
+		getRequest().setAttribute("loginAdmin", getLoginAdmin());
+		if (getLoginAdmin()!=null) {
+		 int i = systemService.getUnredCount(getLoginAdmin().getId());
+		 getRequest().setAttribute("count",i);
+		}
+		rootContractCagetoryList = rootContractCategoryService.getAllList();
+		
+		return "main";
+	}
+	
+	
+	/**
+	 * 取得未读消息条数
+	 * @return
+	 * @author songkez
+	 * @since  2015-7-21 
+	 */
+	public String getUnreadMessageCount() {
+		return ajax(systemService.getUnredCount(getLoginAdmin().getId()));
+	}
+	
+	
+	/**
+	 * 获取菜单
+	 * @return
+	 */
+	public String getMenuList(){
+		List<Map<String,Object>>  menuList = new ArrayList<Map<String,Object>>();
+		List<RootContractCategory> rootContractCagetoryList = rootContractCategoryService.getAllList();//一级分类集合
+		Admin loginAdmin = getLoginAdmin();
+	    List<String> rootList = loginAdmin.getAllAdminContractCategory();//权限访问
+	    List<String> projectList = loginAdmin.getAllAdminProjectCategory();//项目权限访问
+
+//	      if(rootList == null){
+//	    	return this.ajax(menuList);
+//		  }
+		if(rootContractCagetoryList != null){//如果存在一级分类
+			for(RootContractCategory temp :rootContractCagetoryList){
+				Map<String,Object> map = new HashMap<String,Object>();
+				if(!rootList.contains(temp.getId())){//权限过滤
+					continue;
+			  	 }
+				map.put("rootName", temp.getName());//一级分类名称
+				map.put("rootId", temp.getId());//一级分类Id
+				List<Map<String,Object>> categoryList = new ArrayList<Map<String,Object>>();
+				for(ContractCategory categoryTemp : temp.getContractCategorySet()){
+					if(categoryTemp.isRecyle() || !rootList.contains(categoryTemp.getId())){//权限过滤
+						continue;
+				  	 }
+					Map<String,Object> categoryMap = new HashMap<String,Object>();
+					categoryMap.put("url", "contract!list.action?contractCategoryId={0}");
+					categoryMap.put("name", categoryTemp.getName());//二级分类名称
+					categoryMap.put("id", categoryTemp.getId());//二级分类id
+					categoryList.add(categoryMap);
+				}
+				map.put("child", categoryList);//一级分类的子节点
+				for(Project project : temp.getProjectCategorySet()){
+					if(!projectList.contains(project.getId())){//权限过滤
+						continue;
+				  	 }
+					Map<String,Object> projectMap = new HashMap<String,Object>();
+					projectMap.put("url", "project!projectPlanList.action?id={0}&projectName={1}");
+					projectMap.put("name", project.getName());//二级分类名称
+					projectMap.put("id", project.getId());//二级分类id
+					categoryList.add(projectMap);
+				}
+				map.put("child", categoryList);//一级分类的子节点
+				menuList.add(map);//添加一级分类
+			}
+		}
+		return this.ajax(menuList);
+	}
+	
+	// 后台Header
+	public String header() {
+
+		return "header";
+	}
+	
+	// 后台菜单
+	public String menu() {
+		return "menu";
+	}
+	
+	// 后台中间(显示/隐藏菜单)
+	public String middle() {
+		return "middle";
+	}
+	
+	// 后台首页
+	public String index() {
+		return "index";
+	}
+	
+	
+	// 获取会员总数
+	public Long getMemberTotalCount() {
+		return memberService.getTotalCount();
+	}
+	
+	// 获取文章总数
+	public Long getArticleTotalCount() {
+		return articleService.getTotalCount();
+	}
+	
+	// 获取JAVA版本
+	public String getJavaVersion() {
+		return System.getProperty("java.version");
+	}
+	
+	// 获取系统名称
+	public String getOsName() {
+		return System.getProperty("os.name");
+	}
+	
+	// 获取系统构架
+	public String getOsArch() {
+		return System.getProperty("os.arch");
+	}
+	
+	// 获取系统版本
+	public String getOsVersion() {
+		return System.getProperty("os.version");
+	}
+	
+	// 获取Server信息
+	public String getServerInfo() {
+		return StringUtils.substring(getServletContext().getServerInfo(), 0, 30);
+	}
+	
+	// 获取Servlet版本
+	public String getServletVersion() {
+		return getServletContext().getMajorVersion() + "." + getServletContext().getMinorVersion();
+	}
+	
+
+
+}

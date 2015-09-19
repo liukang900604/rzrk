@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/myproject/!svn/ver/5446/rzrk_oa/src
+END
+oscache.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/oscache.properties
+END
+i18n_zh_CN.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/i18n_zh_CN.properties
+END
+database.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/myproject/!svn/ver/5426/rzrk_oa/src/database.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/log4j.properties
+END
+xwork-conversion.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/xwork-conversion.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/5004/rzrk_oa/src/applicationContext.xml
+END
+rzrk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/myproject/!svn/ver/5366/rzrk_oa/src/rzrk.xml
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/myproject/!svn/ver/5349/rzrk_oa/src/struts.xml
+END
+modelClient.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/myproject/!svn/ver/5192/rzrk_oa/src/modelClient.properties
+END
+i18n_en_US.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/i18n_en_US.properties
+END
+mongodb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/mongodb.properties
+END
+applicationContext-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/5434/rzrk_oa/src/applicationContext-security.xml
+END
+freemarker.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/freemarker.properties
+END
+spring-mongodb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/spring-mongodb.xml
+END
+applicationContext-cache.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/5375/rzrk_oa/src/applicationContext-cache.xml
+END

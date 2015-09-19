@@ -1,0 +1,59 @@
+.container{overflow: inherit;height: auto;}
+.container .user-menu{width:190px;float:left;position:relative;background-color:#fafafa;}
+.container .user-menu > h3{height:30px;line-height:30px;background-color:#000;color:#fff;padding-left:20px;}
+.container .user-menu .list{padding-top:10px;}
+.container .user-menu .list li{cursor:pointer;padding: 10px 20px;}
+.container .user-menu .list li:hover{background-color: #dcddde;}
+.container .user-menu .list li.selected{background-color:#ebebeb;}
+.container .user-menu .list li span{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.container .user-detail{color: #666;float: left;background-color: #fdfdfd;width:800px;}
+.container .user-detail .user-info{padding: 15px 20px;min-height: 600px;}
+.container .user-detail .user-info h3{color: #cfa42f;font-weight: bold;}
+.container .user-detail .user-info table{table-layout: fixed;margin-top: 10px;}
+.container .user-detail .user-info table td{border: 1px solid #c8c8c8;height: 30px;line-height: 30px;padding: 0 20px;font-weight: bold;background-color: #fff;}
+.container .user-detail .user-info table tr td:first-child{text-align: right;background-color: #f0f0f0;font-weight: normal;}
+/* user history */
+.container .user-detail .user-history{padding: 15px 20px;min-height: 600px;}
+.container .user-detail .user-history h3{color: #cfa42f;font-weight: bold;}
+.container .user-detail .user-history table{table-layout: fixed;margin-top: 10px;}
+.container .user-detail .user-history table th{border: 1px solid #c8c8c8;height: 30px;line-height: 30px;background-color: #f0f0f0;text-align: center;}
+.container .user-detail .user-history table td{border: 1px solid #c8c8c8;height: 30px;line-height: 30px;background-color: #fff;text-align: center;}
+/* user products */
+.container .user-detail .user-products table td,
+.container .user-detail .user-products table th{text-align: center;}
+.container .user-detail .user-products table tfoot td{background-color: #f0f0f0;}
+.container .user-detail .user-products table span.left{float: left;margin-left: 20px;}
+.container .user-detail .user-products table span.right{float: right;margin-right: 20px;}
+/* user change */
+.container .user-detail .user-change h3{color: #cfa42f;font-weight: bold;}
+.container .user-detail .user-change{padding: 15px 20px;min-height: 600px;}
+.container .user-detail .user-change table{margin-top: 50px;}
+.container .user-detail .user-change table td{height: 35px;line-height: 35px;}
+.container .user-detail .user-change table td:first-child{text-align: right;padding: 0 10px;}
+.container .user-detail .user-change table td span.bold{font-weight: bold;}
+.container .user-detail .user-change table td input{border: 1px solid #dcdcdc;height: 24px;line-height: 24px;width: 200px;}
+.container .user-detail .user-change table .save{margin-top: 20px;width: 80px;height: 30px;line-height: 30px;color: #fff;background-color: #666666;display: inline-block;text-align: center;}
+.container .user-detail .user-change table em{color: #f00;vertical-align: middle;margin-left: 5px;}
+.container .user-detail .user-change table label.error{color: #f00;margin: 0 0 0 5px;padding-left: 20px;}
+.container .user-detail .user-change table label.success, .container .user-detail .user-change table .tips{color: #cfa42f;margin: 0 0 0 5px;}
+.container .user-detail .user-change table label.error{background: transparent url("../images/service/icon-error.png") left center no-repeat;}
+.container .user-detail .user-change table label.success{background: transparent url("../images/service/icon-success.png") left center no-repeat;}
+.container .user-detail .user-change table .tips{display:none;}
+/* user change */
+.container .user-login{width: 990px;min-height: 600px;padding-top: 100px;text-align: center;background-color: #fdfdfd;}
+.container .user-login h3{font-size: 14px;color: #666;font-weight: bold;text-align: center;margin-bottom: 40px;}
+.container .user-login .row{text-align: left;margin-top: 10px;}
+.container .user-login .row .label{display: inline-block;height: 24px;line-height: 24px;text-align: right;vertical-align: middle;margin-left: 360px;}
+.container .user-login .row input{margin-left: 10px;border: 1px solid #dcdcdc;height: 22px;line-height: 22px;vertical-align: middle;width: 198px;}
+.container .user-login .row em{color: #f00;margin-left: 5px;vertical-align: middle;}
+.container .user-login .row a.confirm{display: inline-block;width: 80px;height: 30px;line-height: 30px;background-color: #e0b500;text-align: center;color: #fff;margin: 20px 0 0 407px;}
+.container .user-login label.error{color: #f00;margin: 0 0 0 5px;padding-left: 20px;}
+.container .user-login label.success{color: #cfa42f;margin: 0 0 0 5px;}
+.container .user-login label.error{background: transparent url("../images/service/icon-error.png") left center no-repeat;}
+.container .user-login label.success{background: transparent url("../images/service/icon-success.png") left center no-repeat;}
+.container .user-login #msg{display: none;}
+
+
+
+
+

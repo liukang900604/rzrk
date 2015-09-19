@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/myproject/!svn/ver/5243/rzrk_oa/src/com/rzrk/bean
+END
+Setting.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/myproject/!svn/ver/5219/rzrk_oa/src/com/rzrk/bean/Setting.java
+END
+SpecificationValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/SpecificationValue.java
+END
+ProductDailyRecordBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/bean/ProductDailyRecordBean.java
+END
+PageTemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/PageTemplateConfig.java
+END
+PrintTemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/PrintTemplateConfig.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/Search.java
+END
+LogConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/LogConfig.java
+END
+GoodsImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/GoodsImage.java
+END
+Pager.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myproject/!svn/ver/5243/rzrk_oa/src/com/rzrk/bean/Pager.java
+END
+Gender.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/Gender.java
+END
+ScoreSetting.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/ScoreSetting.java
+END
+TemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/TemplateConfig.java
+END
+CartItemCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/CartItemCookie.java
+END
+SmsTemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/SmsTemplateConfig.java
+END
+MailTemplateConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/MailTemplateConfig.java
+END
+GoodsParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/bean/GoodsParameter.java
+END
+CheckinTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/bean/CheckinTask.java
+END

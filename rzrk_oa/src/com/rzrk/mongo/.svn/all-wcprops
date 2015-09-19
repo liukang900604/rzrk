@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/mongo
+END
+MongoDBUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/mongo/MongoDBUtil.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/mongo/Test.java
+END
+BaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/mongo/BaseDAO.java
+END
+BaseDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/mongo/BaseDAOImpl.java
+END

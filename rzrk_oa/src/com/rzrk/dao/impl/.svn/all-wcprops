@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/dao/impl
+END
+MailSmsLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/MailSmsLogDaoImpl.java
+END
+ProductEarnCollectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProductEarnCollectDaoImpl.java
+END
+WorkFlowFormDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/WorkFlowFormDaoImpl.java
+END
+AdminUserPlanDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/AdminUserPlanDaoImpl.java
+END
+LogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/LogDaoImpl.java
+END
+JobLevelDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/JobLevelDaoImpl.java
+END
+AdminProjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5229/rzrk_oa/src/com/rzrk/dao/impl/AdminProjectDaoImpl.java
+END
+ViewlayerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/5344/rzrk_oa/src/com/rzrk/dao/impl/ViewlayerDaoImpl.java
+END
+GroupInfoDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/GroupInfoDaoImpl.java
+END
+AdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/5378/rzrk_oa/src/com/rzrk/dao/impl/AdminDaoImpl.java
+END
+UserPlanLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/UserPlanLogDaoImpl.java
+END
+MemberProductHoldLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/MemberProductHoldLogDaoImpl.java
+END
+BaseDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/5414/rzrk_oa/src/com/rzrk/dao/impl/BaseDaoImpl.java
+END
+ProductNetValueMailRecieverDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProductNetValueMailRecieverDaoImpl.java
+END
+WorkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/WorkDaoImpl.java
+END
+ContractDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/5429/rzrk_oa/src/com/rzrk/dao/impl/ContractDaoImpl.java
+END
+ContractLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ContractLogDaoImpl.java
+END
+UserPlanDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/5118/rzrk_oa/src/com/rzrk/dao/impl/UserPlanDaoImpl.java
+END
+ArticleCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/ArticleCategoryDaoImpl.java
+END
+MemberProductHoldDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/MemberProductHoldDaoImpl.java
+END
+WorkdingDayRecordServiceDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/WorkdingDayRecordServiceDaoImpl.java
+END
+IndexNavigatorItemDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/IndexNavigatorItemDaoImpl.java
+END
+SystemMessageDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5009/rzrk_oa/src/com/rzrk/dao/impl/SystemMessageDaoImpl.java
+END
+ProjectDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5403/rzrk_oa/src/com/rzrk/dao/impl/ProjectDaoImpl.java
+END
+MemberDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/MemberDaoImpl.java
+END
+ProductDailyRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/ProductDailyRecordDaoImpl.java
+END
+StockIndexDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/StockIndexDaoImpl.java
+END
+SerialNumberDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/SerialNumberDaoImpl.java
+END
+DeparmentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/5242/rzrk_oa/src/com/rzrk/dao/impl/DeparmentDaoImpl.java
+END
+WorkFlowDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/WorkFlowDaoImpl.java
+END
+UnionContractCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5344/rzrk_oa/src/com/rzrk/dao/impl/UnionContractCategoryDaoImpl.java
+END
+ProductRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProductRecordDaoImpl.java
+END
+ProductNetValueDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProductNetValueDaoImpl.java
+END
+ReservationsDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ReservationsDaoImpl.java
+END
+QueryHistoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5004/rzrk_oa/src/com/rzrk/dao/impl/QueryHistoryDaoImpl.java
+END
+CheckinDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/CheckinDaoImpl.java
+END
+ProductDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProductDaoImpl.java
+END
+ContractCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/dao/impl/ContractCategoryDaoImpl.java
+END
+ScriptLibraryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5373/rzrk_oa/src/com/rzrk/dao/impl/ScriptLibraryDaoImpl.java
+END
+WorkFlowPointDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5077/rzrk_oa/src/com/rzrk/dao/impl/WorkFlowPointDaoImpl.java
+END
+UserPlanRequireDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5118/rzrk_oa/src/com/rzrk/dao/impl/UserPlanRequireDaoImpl.java
+END
+RootContractCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/RootContractCategoryDaoImpl.java
+END
+UserPlanRemarkDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/UserPlanRemarkDaoImpl.java
+END
+ContractCategoryLogDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/ContractCategoryLogDaoImpl.java
+END
+WorkContractRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/WorkContractRecordDaoImpl.java
+END
+WorkFlowHistoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5040/rzrk_oa/src/com/rzrk/dao/impl/WorkFlowHistoryDaoImpl.java
+END
+RoleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/RoleDaoImpl.java
+END
+ArticleDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/ArticleDaoImpl.java
+END
+ProjectCategoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/dao/impl/ProjectCategoryDaoImpl.java
+END
+WorkFlowTypeDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/WorkFlowTypeDaoImpl.java
+END
+JobDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/JobDaoImpl.java
+END
+GroupDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/dao/impl/GroupDaoImpl.java
+END
+UnionContractDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5344/rzrk_oa/src/com/rzrk/dao/impl/UnionContractDaoImpl.java
+END

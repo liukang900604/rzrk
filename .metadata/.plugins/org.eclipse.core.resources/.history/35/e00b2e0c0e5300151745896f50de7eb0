@@ -1,0 +1,48 @@
+package com.rzrk.interceptor;
+
+import java.util.List;
+
+import javax.annotation.Resource;
+import javax.servlet.http.HttpServletRequest;
+
+import org.apache.commons.lang.StringUtils;
+import org.apache.struts2.ServletActionContext;
+
+import com.opensymphony.xwork2.ActionInvocation;
+import com.opensymphony.xwork2.interceptor.AbstractInterceptor;
+import com.rzrk.action.admin.BaseAdminAction;
+import com.rzrk.bean.LogConfig;
+import com.rzrk.contants.UserPlanContants;
+import com.rzrk.entity.Admin;
+import com.rzrk.entity.Log;
+import com.rzrk.service.AdminService;
+import com.rzrk.service.LogService;
+import com.rzrk.util.LogConfigUtil;
+
+/**
+ * 拦截器 - 管理日志
+ */
+
+public class LoginInterceptor extends AbstractInterceptor {
+
+	private static final long serialVersionUID = 276741467699160227L;
+
+	@Override
+	public String intercept(ActionInvocation invocation) throws Exception {
+		String object = (String) invocation.getInvocationContext().getSession().get("SPRING_SECURITY_LAST_USERNAME");
+		HttpServletRequest request = (HttpServletRequest) invocation.getInvocationContext().get(ServletActionContext.HTTP_REQUEST);
+		System.out.println(request.getRequestURL());
+		 if(StringUtils.isEmpty(object)){
+			 if(request.getRequestURL().toString().contains(UserPlanContants.FITER_URL)){
+				 return invocation.invoke();
+			 }else{
+				 return "loginPage";
+			 }
+			
+		 }else{
+			 return invocation.invoke();
+		 }
+		
+	}
+
+}

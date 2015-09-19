@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myproject/!svn/ver/5349/rzrk_oa/src/com/rzrk/interceptor
+END
+LoginInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5349/rzrk_oa/src/com/rzrk/interceptor/LoginInterceptor.java
+END
+SecurityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/interceptor/SecurityInterceptor.java
+END
+TrimInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/interceptor/TrimInterceptor.java
+END
+EntityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/interceptor/EntityInterceptor.java
+END
+MemberVerifyInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/interceptor/MemberVerifyInterceptor.java
+END
+LogInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/interceptor/LogInterceptor.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/myproject/!svn/ver/5424/rzrk_oa/WebContent/html
+END
+error_page.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/myproject/!svn/ver/5424/rzrk_oa/WebContent/html/error_page.html
+END
+error_page_404.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/html/error_page_404.html
+END
+error_page_403.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/html/error_page_403.html
+END
+error_page_access_denied.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5419/rzrk_oa/WebContent/html/error_page_access_denied.html
+END
+error_page_500.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/html/error_page_500.html
+END

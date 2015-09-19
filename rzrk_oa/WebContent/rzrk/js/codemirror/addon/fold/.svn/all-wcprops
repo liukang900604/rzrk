@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold
+END
+xml-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/xml-fold.js
+END
+foldgutter.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/foldgutter.css
+END
+indent-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/indent-fold.js
+END
+comment-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/comment-fold.js
+END
+markdown-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/markdown-fold.js
+END
+foldcode.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/foldcode.js
+END
+foldgutter.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/foldgutter.js
+END
+brace-fold.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/addon/fold/brace-fold.js
+END

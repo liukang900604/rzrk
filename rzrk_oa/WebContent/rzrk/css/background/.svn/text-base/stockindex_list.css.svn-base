@@ -1,0 +1,2 @@
+.datagrid-view1, .datagrid-btable, .datagrid-htable{width:40px!important;}
+.datagrid-cell-rownumber{width:39px;text-align: center;}

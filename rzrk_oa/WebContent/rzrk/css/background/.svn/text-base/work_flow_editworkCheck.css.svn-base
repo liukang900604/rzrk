@@ -1,0 +1,18 @@
+body{overflow-x: hidden;}
+.view h2{margin: 15px 0 15px 0;padding: 0 0px 5px 0px;border-bottom: 4px solid #F3F3F3;font-size: 22px;}
+.view h3{}
+.view .top_r{text-align:right;}
+.view .m_c{margin-top: 5px;margin-bottom: 20px;border: 1px solid #e2e2e2;background: rgb(245, 245, 245);padding: 10px;}
+.view .m_c table{width:100%;}
+.view .m_c td{height: 30px;padding: 0;color: #666;border: none;}
+.view .m_c .td-left{text-align: right;width: 85px;}
+.view .m_c .td-right{text-align: left;}
+.view .m_c .bd-top{border-top: 1px solid #e2e2e2;}
+.view .m_c .bd-bottom{padding-bottom: 10px;}
+.view .m_c div.form{font-size: 14px;border: 1px solid #e2e2e2;margin: 0px;padding: 5px;background: white;overflow-x: auto;}
+.view .m_c div.form table{margin-bottom: 10px;border-collapse: collapse;}
+.view .m_c div.form table td{padding: 5px 10px;border: 1px solid #DDD;}
+.view .m_c table td input{border-width: 0px 0px 1px; border-style: none none solid; border-color: currentColor currentColor rgb(0, 0, 0);}
+.view .m_c select{width:200px;padding:1px;}
+.view .m_c textarea{margin:0 auto;width: 780px; height: 98px; -ms-scrollbar-face-color: rgb(170, 170, 170); -ms-scrollbar-3dlight-color: rgb(216, 216, 216); -ms-scrollbar-shadow-color: rgb(216, 216, 216); -ms-scrollbar-highlight-color: rgb(216, 216, 216); -ms-scrollbar-darkshadow-color: rgb(216, 216, 216); -ms-scrollbar-arrow-color: rgb(216, 216, 216); -ms-scrollbar-track-color: rgb(216, 216, 216);}
+.combobox-item{cursor: pointer;}

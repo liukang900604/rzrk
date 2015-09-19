@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/service
+END
+JobLevelService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/JobLevelService.java
+END
+AdminProjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5229/rzrk_oa/src/com/rzrk/service/AdminProjectService.java
+END
+ViewlayerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ViewlayerService.java
+END
+GroupInfoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/GroupInfoService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/5361/rzrk_oa/src/com/rzrk/service/AdminService.java
+END
+UserPlanLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/UserPlanLogService.java
+END
+MemberProductHoldLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/MemberProductHoldLogService.java
+END
+WorkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5422/rzrk_oa/src/com/rzrk/service/WorkService.java
+END
+BaseService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5118/rzrk_oa/src/com/rzrk/service/BaseService.java
+END
+ProductNetValueMailRecieverService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProductNetValueMailRecieverService.java
+END
+ContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5422/rzrk_oa/src/com/rzrk/service/ContractService.java
+END
+ContractLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ContractLogService.java
+END
+ArticleCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/ArticleCategoryService.java
+END
+UserPlanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5229/rzrk_oa/src/com/rzrk/service/UserPlanService.java
+END
+MemberProductHoldService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/MemberProductHoldService.java
+END
+DictionaryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/DictionaryService.java
+END
+SystemMessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5388/rzrk_oa/src/com/rzrk/service/SystemMessageService.java
+END
+IndexNavigatorItemService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/IndexNavigatorItemService.java
+END
+SmsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/SmsService.java
+END
+ProjectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5352/rzrk_oa/src/com/rzrk/service/ProjectService.java
+END
+MemberService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/MemberService.java
+END
+ProductDailyRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/ProductDailyRecordService.java
+END
+StockIndexService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/StockIndexService.java
+END
+SerialNumberService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/SerialNumberService.java
+END
+DeparmentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/5432/rzrk_oa/src/com/rzrk/service/DeparmentService.java
+END
+WorkFlowService.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5071/rzrk_oa/src/com/rzrk/service/WorkFlowService.java
+END
+UnionContractCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5344/rzrk_oa/src/com/rzrk/service/UnionContractCategoryService.java
+END
+ProductRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProductRecordService.java
+END
+ProductNetValueService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProductNetValueService.java
+END
+ReservationsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ReservationsService.java
+END
+QueryHistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/QueryHistoryService.java
+END
+CheckinService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/CheckinService.java
+END
+ProductService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProductService.java
+END
+ContractCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/service/ContractCategoryService.java
+END
+ScriptLibraryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5373/rzrk_oa/src/com/rzrk/service/ScriptLibraryService.java
+END
+WorkFlowPointService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5165/rzrk_oa/src/com/rzrk/service/WorkFlowPointService.java
+END
+RootContractCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/RootContractCategoryService.java
+END
+UserPlanRemarkService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/UserPlanRemarkService.java
+END
+ContractCategoryLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/ContractCategoryLogService.java
+END
+WorkFlowHistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5041/rzrk_oa/src/com/rzrk/service/WorkFlowHistoryService.java
+END
+ArticleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/ArticleService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/RoleService.java
+END
+MailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/MailService.java
+END
+ProjectCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProjectCategoryService.java
+END
+WorkFlowTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/WorkFlowTypeService.java
+END
+JobService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/JobService.java
+END
+WorkdingDayRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/WorkdingDayRecordService.java
+END
+GroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/GroupService.java
+END
+UnionContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/5344/rzrk_oa/src/com/rzrk/service/UnionContractService.java
+END
+MailSmsLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/MailSmsLogService.java
+END
+CacheService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/CacheService.java
+END
+AdminUserPlanService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/AdminUserPlanService.java
+END
+ProductEarnCollectService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/service/ProductEarnCollectService.java
+END
+WorkFlowFormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5287/rzrk_oa/src/com/rzrk/service/WorkFlowFormService.java
+END
+LogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/service/LogService.java
+END

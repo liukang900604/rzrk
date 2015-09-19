@@ -1,0 +1,120 @@
+10
+
+dir
+5449
+http://42.96.155.162:81/svn/myproject/rzrk_oa
+http://42.96.155.162:81/svn/myproject
+
+
+
+2015-09-11T09:59:21.072691Z
+5449
+liujingjing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+391cfc67-ccd0-4073-a750-28b8852abddd
+
+.classpath
+file
+
+
+
+
+2015-08-16T02:06:14.992000Z
+181802b9f33efbc3fcf3084a3030c6bc
+2015-08-11T11:08:16.180150Z
+5003
+liukang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+409
+
+.externalToolBuilders
+dir
+
+.project
+file
+
+
+
+
+2015-08-16T01:59:21.934000Z
+8e86c70f35d8c447d2f84aceb448c2b0
+2015-08-09T17:13:18.098934Z
+4979
+songkezheng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1271
+
+.settings
+dir
+
+WebContent
+dir
+
+build
+dir
+
+doc
+dir
+
+lib
+dir
+
+src
+dir
+
+test
+dir
+

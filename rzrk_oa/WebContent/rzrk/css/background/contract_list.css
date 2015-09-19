@@ -1,0 +1,39 @@
+body{overflow-x: hidden;}
+.view h2{margin: 15px 0 15px 0;padding: 0 0px 5px 0px;border-bottom: 4px solid #F3F3F3;font-size: 22px;}
+.view h3{}
+.view .top_r{text-align:right;}
+.view .m_c{margin-top: 5px;margin-bottom: 5px;border: 1px solid #e2e2e2;background: rgb(245, 245, 245);padding: 10px;}
+.view .m_c table{width:100%;}
+.view .m_c td{height: 30px;padding: 0;color: #666;border: none;}
+.view .m_c .td-left{text-align: right;width: 85px;}
+.view .m_c .td-right{text-align: left;}
+.view .m_c .bd-top{border-top: 1px solid #e2e2e2;}
+.view .m_c .bd-bottom{padding-bottom: 10px;}
+.view .m_c .td-right input{width:200px;}
+.view .m_c .td-right select{width:204px;padding-top:1px;}
+.view .m_c div.form{font-size: 14px;border: 1px solid #e2e2e2;margin: 0px;padding: 5px;background: white;overflow-x: auto;}
+.view .m_c div.form table{margin-bottom: 10px;border-collapse: collapse;}
+.view .m_c div.form table td{padding: 5px 10px;border: 1px solid #DDD;}
+.view .m_c span.error{color:red;margin-left:5px;}
+ul{border: 1px solid gray;line-height: 24px;list-style: none;padding:0 0 10px 10px;margin:0;background-color: #fff;}
+ul:after{display: block;height: 0;content:"";clear: both;}
+ul li{float:left;background-color: #eff2f7;border: 1px solid #ccd5e4;margin:10px 10px 0 0;padding:0 5px;cursor: default;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+ul li span{margin-left: 5px;font-weight: bold;color: #a6b3cf;text-decoration: none;cursor: pointer;}
+ul li.addColleague{border:0;background-color: transparent;}
+ul li.addColleague a{color:#37a;text-decoration: none;}
+.combobox-item{cursor: pointer;}
+
+.window{background-color: #0088cc;}
+.window .panel-title{color:#fff;}
+.window-proxy{border: 1px dashed #0088cc;background-color: #0088cc;filter: alpha(opacity=10);opacity: 0.10;}
+.window-proxy-mask, .window-mask{background: #eee;filter: alpha(opacity=1);opacity: 0.01;}
+.tabs li a.tabs-close{background-color: #ddd;}
+.tabs li a:hover.tabs-close{background-color: #ccc;}
+.tabs li.tabs-selected a.tabs-inner{background-color: #0088cc;color: #fff;font-weight: normal;}
+.panel-tool a:hover, .tabs li.tabs-selected a.tabs-close,
+.tabs-p-tool a:hover, .tabs-scroller-over{background-color: transparent;}
+.tabs-scroller-left, .tabs-scroller-right{background-color: #0088cc;}
+
+.queryDom input.qkeyword{vertical-align: middle;padding:2px 3px 1px;margin:0 5px 0 0;}
+.queryDom .combo{margin-right:10px !important;}
+.queryDom a{text-decoration: none;color: #0088cc;margin:0 5px;}

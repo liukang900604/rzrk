@@ -1,0 +1,11 @@
+SET FOREIGN_KEY_CHECKS=0;
+delete from  rzrk_work;
+delete from  rzrk_workflow;
+delete from  rzrk_workflow_form;
+delete from  rzrk_workflow_point;
+delete from  rzrk_workflow_type;
+delete from  rzrk_working_day_record;
+delete from  rzrk_approvalrecord;
+delete from  rzrk_rzrk_workflow_admin;
+delete from  rzrk_rzrk_workflow_point_admin;
+delete  from  rzrk_rzrk_work_contract_field;

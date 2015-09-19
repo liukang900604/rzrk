@@ -1,0 +1,4 @@
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;width:400px;}
+span.error{color:red;margin-left:10px;}
+table tr td:first-child{text-align: right;}
+table select{width:408px;border: 1px solid #ddd;padding:3px 3px 2px;}

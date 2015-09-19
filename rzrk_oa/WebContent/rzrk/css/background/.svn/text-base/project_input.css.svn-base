@@ -1,0 +1,19 @@
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+span.error{color:red;margin-left:10px;}
+table tr td:first-child{text-align: right;}
+.warnInfo {
+	line-height: 30px;
+	padding: 5px 5px 5px 20px;
+	border: 1px solid #ffca80;
+	background: url(/template/admin/images/base_icon.gif) no-repeat 0px -414px #fffee2;
+	display:block;
+}
+ul.userList{border: 1px solid gray;line-height: 24px;list-style: none;padding:0 0 10px 10px;margin:0;}
+ul.userList:after{display: block;height: 0;content:"";clear: both;}
+ul.userList li{float:left;background-color: #eff2f7;border: 1px solid #ccd5e4;margin:10px 10px 0 0;padding:0 5px;cursor: default;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+ul.userList li span{margin-left: 5px;font-weight: bold;color: #a6b3cf;text-decoration: none;cursor: pointer;}
+ul.userList li.addColleague{border:0;background-color: transparent;}
+ul.userList li.addColleague a{color:#37a;text-decoration: none;}
+.combobox-item{cursor: pointer;}
+#admForm em{color:red;margin-right:5px;font-style: normal;}
+.datebox-button table tr td{text-align: center;}

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk
+END
+MemberAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/MemberAction.java
+END
+BaseShopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/BaseShopAction.java
+END
+ReservationsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/action/rzrk/ReservationsAction.java
+END
+ArticleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/ArticleAction.java
+END
+IndexAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/action/rzrk/IndexAction.java
+END
+MemberCenterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/MemberCenterAction.java
+END
+ProductAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/action/rzrk/ProductAction.java
+END
+SystemAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/SystemAction.java
+END
+ChartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/action/rzrk/ChartAction.java
+END
+AboutAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/action/rzrk/AboutAction.java
+END
+RedirectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/action/rzrk/RedirectAction.java
+END

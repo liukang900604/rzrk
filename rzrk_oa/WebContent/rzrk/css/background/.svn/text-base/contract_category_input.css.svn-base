@@ -1,0 +1,9 @@
+body{margin:0;padding:10px 10px 0;}
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+span.error{color:red;margin-left:10px;}
+table{table-layout: fixed;}
+table tr td:first-child{text-align: right;}
+table tr td input[name='article.title']{width:500px;}
+table tr td textarea#editor{width:1000px;}
+select{width:200px;padding:3px 3px 2px;}
+select, textarea{border: 1px solid #ddd;}

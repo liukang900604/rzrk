@@ -1,0 +1,16 @@
+/* header */
+.header > ul > li{float: left;margin-top: 20px;}
+.header > ul > li.logo{margin-top: 0;}
+/* login tips */
+.header .login .login-wrap .input-panel div.id-card,
+.header .login .login-wrap .input-panel div.pwd,
+.header .login .login-wrap .input-panel div.error{top: 26px;}
+/* info */
+.container .info a{cursor: pointer;}
+/* user info */
+.container .user-detail .user-info table td{padding: 0;}
+.container .user-detail .user-info table tr span{float: left;margin-left: 20px;}
+.container .user-detail .user-info table tr span.right{float: right;margin-right: 20px;}
+/* user change */
+.container .user-detail .user-change table td{padding: 0;}
+.container .user-detail .user-change table td span.right{float: right;margin-right: 10px;}

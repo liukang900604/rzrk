@@ -1,0 +1,80 @@
+10
+
+dir
+5449
+http://42.96.155.162:81/svn/myproject/rzrk_oa/WebContent
+http://42.96.155.162:81/svn/myproject
+
+
+
+2015-09-11T09:59:21.072691Z
+5449
+liujingjing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+391cfc67-ccd0-4073-a750-28b8852abddd
+
+META-INF
+dir
+
+WEB-INF
+dir
+
+admin
+dir
+
+html
+dir
+
+index.jsp
+file
+
+
+
+
+2015-08-16T01:59:39.079000Z
+30d4d44e9c041f8d3a21d15aaa1f7f4d
+2015-08-09T17:13:18.098934Z
+4979
+songkezheng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58
+
+rzrk
+dir
+
+template
+dir
+

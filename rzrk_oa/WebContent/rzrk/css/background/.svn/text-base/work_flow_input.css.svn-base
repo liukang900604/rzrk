@@ -1,0 +1,25 @@
+body{margin:0;padding:10px 10px 0;}
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+span.error{color:red;margin-left:10px;}
+table.tb{table-layout: fixed;}
+table.tb tr td:first-child{text-align: right;}
+table.tb tr td input[name='article.title']{width:500px;}
+table.tb tr td textarea#editor{width:1000px;}
+select{width:200px;padding:3px 3px 2px;}
+select, textarea{border: 1px solid #ddd;}
+h3{margin:20px;}
+ul.flow{list-style: none;margin:0 0 0 20px;padding:0;white-space:nowrap;}
+ul.flow:after{display:block;content:"";clear: both;}
+ul.flow li{display:inline-block;padding-top:40px;min-width:60px;cursor: pointer;background: transparent url("/rzrk/images/background/icons/wf.png") center top no-repeat;margin-right:10px;position: relative;vertical-align:top;}
+ul.flow li.branch{background:url("/rzrk/images/background/icons/wf_c.png") center 2px no-repeat;}
+ul.flow li.link{background: url("/rzrk/images/background/icons/wf_line.png") right 12px no-repeat;}
+ul.flow li.start{background-position: center top;}
+ul.flow li span{display:block;text-align: center;font-weight:400;font-size: 13px;color:#777;text-align:center;white-space:nowrap;}
+ul.flow li.end{background: url("/rzrk/images/background/icons/wf_end.png") center 2px no-repeat;}
+ul.flow li.middle.current{background-image:url("/rzrk/images/background/icons/wf_current.png");}
+ul.flow li.branch.current{background-image:url("/rzrk/images/background/icons/wf_c_current.png");}
+ul.flow li.middle.current span{font-weight:600;}
+ul.flow li.branch.current span{font-weight:600;}
+/*
+ul.flow li.end.current{background-image: url("/rzrk/images/background/icons/end.current.png");}
+*/

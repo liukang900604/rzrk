@@ -1,0 +1,1247 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/5433/rzrk_oa/WebContent/WEB-INF/template/admin
+END
+work_viewmywork.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5420/rzrk_oa/WebContent/WEB-INF/template/admin/work_viewmywork.ftl
+END
+leave_message_setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/leave_message_setting.ftl
+END
+user_plan_follow.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/user_plan_follow.ftl
+END
+order_goods_print.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_goods_print.ftl
+END
+shipping_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/shipping_view.ftl
+END
+job_person.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5298/rzrk_oa/WebContent/WEB-INF/template/admin/job_person.ftl
+END
+area_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/area_input.ftl
+END
+setting_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/setting_input.ftl
+END
+memberproducthold_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/memberproducthold_input.ftl
+END
+point_def_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/point_def_input.ftl
+END
+tag_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/tag_list.ftl
+END
+systemmessage_select.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_select.ftl
+END
+member_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_list.ftl
+END
+check_request_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/5277/rzrk_oa/WebContent/WEB-INF/template/admin/check_request_list.ftl
+END
+member_attribute_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_attribute_list.ftl
+END
+union_contract_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myproject/!svn/ver/5344/rzrk_oa/WebContent/WEB-INF/template/admin/union_contract_category_input.ftl
+END
+ajax_error.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/ajax_error.ftl
+END
+deparment_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5432/rzrk_oa/WebContent/WEB-INF/template/admin/deparment_input.ftl
+END
+project_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/project_category_input.ftl
+END
+delivery_type_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_type_input.ftl
+END
+viewlayer_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/viewlayer_list.ftl
+END
+print_template_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/print_template_list.ftl
+END
+message_reply.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/message_reply.ftl
+END
+article_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/article_category_input.ftl
+END
+contract_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/5138/rzrk_oa/WebContent/WEB-INF/template/admin/contract_view.ftl
+END
+project_request_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/project_request_list.ftl
+END
+work_editmywork.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5420/rzrk_oa/WebContent/WEB-INF/template/admin/work_editmywork.ftl
+END
+article_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/article_category_list.ftl
+END
+reservations_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/reservations_list.ftl
+END
+payment_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/payment_list.ftl
+END
+admin_js.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/admin_js.ftl
+END
+work_flow_typeList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_typeList.ftl
+END
+job_level_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/job_level_list.ftl
+END
+union_contract_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/5344/rzrk_oa/WebContent/WEB-INF/template/admin/union_contract_list.ftl
+END
+member_rank_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_rank_input.ftl
+END
+page_header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/page_header.ftl
+END
+work_flow_define.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_define.ftl
+END
+build_html_goods_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/build_html_goods_input.ftl
+END
+model_userlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5357/rzrk_oa/WebContent/WEB-INF/template/admin/model_userlist.ftl
+END
+message_send.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/message_send.ftl
+END
+article_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/article_input.ftl
+END
+admin_detail.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/5408/rzrk_oa/WebContent/WEB-INF/template/admin/admin_detail.ftl
+END
+member_attribute_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_attribute_input.ftl
+END
+check_deploy_submit_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myproject/!svn/ver/5198/rzrk_oa/WebContent/WEB-INF/template/admin/check_deploy_submit_check.ftl
+END
+payment_config_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/payment_config_list.ftl
+END
+template_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/template_list.ftl
+END
+admin_profile_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/admin_profile_input.ftl
+END
+page_middle.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/page_middle.ftl
+END
+stockindex_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/stockindex_input.ftl
+END
+article_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/article_list.ftl
+END
+job_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5163/rzrk_oa/WebContent/WEB-INF/template/admin/job_input.ftl
+END
+work_flow_pointlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_pointlist.ftl
+END
+mail_template_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/mail_template_input.ftl
+END
+contract_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/5385/rzrk_oa/WebContent/WEB-INF/template/admin/contract_category_list.ftl
+END
+admin_authority.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5183/rzrk_oa/WebContent/WEB-INF/template/admin/admin_authority.ftl
+END
+brand_circle_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/brand_circle_input.ftl
+END
+deparment_person.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5361/rzrk_oa/WebContent/WEB-INF/template/admin/deparment_person.ftl
+END
+checkin_checkinList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/checkin_checkinList.ftl
+END
+goods_type_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_type_list.ftl
+END
+admin_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5320/rzrk_oa/WebContent/WEB-INF/template/admin/admin_input.ftl
+END
+contract_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5433/rzrk_oa/WebContent/WEB-INF/template/admin/contract_input.ftl
+END
+admin_list_dep.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/admin_list_dep.ftl
+END
+deparment_tree.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/deparment_tree.ftl
+END
+deparment_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/deparment_list.ftl
+END
+job_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/job_list.ftl
+END
+work_flow_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_list.ftl
+END
+systemmessage_show.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_show.ftl
+END
+leave_message_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/leave_message_view.ftl
+END
+workding_day_record_edit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/workding_day_record_edit.ftl
+END
+work_flow_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5144/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_input.ftl
+END
+page_main.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5416/rzrk_oa/WebContent/WEB-INF/template/admin/page_main.ftl
+END
+goods_notify_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_notify_list.ftl
+END
+product_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_list.ftl
+END
+reship_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/reship_list.ftl
+END
+menu_admin.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_admin.ftl
+END
+instant_messaging_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/instant_messaging_input.ftl
+END
+page_template_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/page_template_input.ftl
+END
+index_navigator_item_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/index_navigator_item_list.ftl
+END
+order_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_view.ftl
+END
+delivery_type_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_type_list.ftl
+END
+work_flow_chart.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5167/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_chart.ftl
+END
+delivery_center_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_center_list.ftl
+END
+order_add_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_add_order.ftl
+END
+stockindex_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/stockindex_list.ftl
+END
+project_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/5297/rzrk_oa/WebContent/WEB-INF/template/admin/project_list.ftl
+END
+comment_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/comment_view.ftl
+END
+systemmessage_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_list.ftl
+END
+error.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/error.ftl
+END
+work_workQuery.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5308/rzrk_oa/WebContent/WEB-INF/template/admin/work_workQuery.ftl
+END
+refund_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/refund_view.ftl
+END
+goods_type_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_type_input.ftl
+END
+shipping_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/shipping_list.ftl
+END
+area_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/area_list.ftl
+END
+brand_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/brand_input.ftl
+END
+check_urgent_deploy_submit_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/myproject/!svn/ver/5198/rzrk_oa/WebContent/WEB-INF/template/admin/check_urgent_deploy_submit_check.ftl
+END
+product_daily_record_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_input.ftl
+END
+page_template_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/page_template_list.ftl
+END
+goods_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_category_list.ftl
+END
+contract_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/5407/rzrk_oa/WebContent/WEB-INF/template/admin/contract_category_input.ftl
+END
+contract_log.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/contract_log.ftl
+END
+viewlayer_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/viewlayer_input.ftl
+END
+print_template_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/print_template_input.ftl
+END
+order_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_input.ftl
+END
+project_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/project_category_list.ftl
+END
+menu_content.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_content.ftl
+END
+work_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5303/rzrk_oa/WebContent/WEB-INF/template/admin/work_input.ftl
+END
+work_flow_pointdefinde.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_pointdefinde.ftl
+END
+build_html_article_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/build_html_article_input.ftl
+END
+delivery_corp_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_corp_input.ftl
+END
+payment_config_select.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/payment_config_select.ftl
+END
+goods_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_input.ftl
+END
+page_index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/page_index.ftl
+END
+work_flow_forminput.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_forminput.ftl
+END
+project_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/5400/rzrk_oa/WebContent/WEB-INF/template/admin/project_input.ftl
+END
+work_myProcessWork.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4992/rzrk_oa/WebContent/WEB-INF/template/admin/work_myProcessWork.ftl
+END
+payment_config_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/payment_config_input.ftl
+END
+user_plan_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5417/rzrk_oa/WebContent/WEB-INF/template/admin/user_plan_input.ftl
+END
+memberproducthold_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/memberproducthold_list.ftl
+END
+contract_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/5297/rzrk_oa/WebContent/WEB-INF/template/admin/contract_list.ftl
+END
+check_inside_request_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myproject/!svn/ver/5422/rzrk_oa/WebContent/WEB-INF/template/admin/check_inside_request_check.ftl
+END
+product_daily_record_mailList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_mailList.ftl
+END
+order_delivery_print.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_delivery_print.ftl
+END
+check_online_bug_submit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/5198/rzrk_oa/WebContent/WEB-INF/template/admin/check_online_bug_submit.ftl
+END
+delivery_template_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_template_list.ftl
+END
+file_upload_show.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/5244/rzrk_oa/WebContent/WEB-INF/template/admin/file_upload_show.ftl
+END
+root_contract_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/root_contract_category_input.ftl
+END
+log_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/log_list.ftl
+END
+product_daily_record_mailinput.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_mailinput.ftl
+END
+mail_template_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/mail_template_list.ftl
+END
+article_overList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/article_overList.ftl
+END
+work_flow_pointinput.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_pointinput.ftl
+END
+payment_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/payment_view.ftl
+END
+role_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5136/rzrk_oa/WebContent/WEB-INF/template/admin/role_input.ftl
+END
+systemmessage_query.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/5388/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_query.ftl
+END
+union_contract_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myproject/!svn/ver/5344/rzrk_oa/WebContent/WEB-INF/template/admin/union_contract_category_list.ftl
+END
+pager.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/pager.ftl
+END
+systemmessage_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/5346/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_input.ftl
+END
+work_flow_formList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_formList.ftl
+END
+template_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/template_input.ftl
+END
+role_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/role_list.ftl
+END
+work_workCheck.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5308/rzrk_oa/WebContent/WEB-INF/template/admin/work_workCheck.ftl
+END
+delivery_center_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_center_input.ftl
+END
+check_editdevelopmentwork.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myproject/!svn/ver/5422/rzrk_oa/WebContent/WEB-INF/template/admin/check_editdevelopmentwork.ftl
+END
+work_myWork.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/5317/rzrk_oa/WebContent/WEB-INF/template/admin/work_myWork.ftl
+END
+mail_sms_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/mail_sms_list.ftl
+END
+job_level_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/5264/rzrk_oa/WebContent/WEB-INF/template/admin/job_level_input.ftl
+END
+message_inbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/message_inbox.ftl
+END
+project_plan_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5333/rzrk_oa/WebContent/WEB-INF/template/admin/project_plan_list.ftl
+END
+page_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/5417/rzrk_oa/WebContent/WEB-INF/template/admin/page_list.ftl
+END
+root_contract_category_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/root_contract_category_list.ftl
+END
+goods_category_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_category_input.ftl
+END
+model_onlineUserList.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/5357/rzrk_oa/WebContent/WEB-INF/template/admin/model_onlineUserList.ftl
+END
+product_daily_record_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_list.ftl
+END
+check_devlopment_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/myproject/!svn/ver/5198/rzrk_oa/WebContent/WEB-INF/template/admin/check_devlopment_check.ftl
+END
+brand_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/brand_list.ftl
+END
+specification_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/specification_list.ftl
+END
+index_navigator_item_index.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myproject/!svn/ver/5107/rzrk_oa/WebContent/WEB-INF/template/admin/index_navigator_item_index.ftl
+END
+score_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/score_input.ftl
+END
+leave_message_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/leave_message_list.ftl
+END
+group_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/group_list.ftl
+END
+navigation_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/navigation_input.ftl
+END
+menu_mailsms.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_mailsms.ftl
+END
+friend_link_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/friend_link_list.ftl
+END
+systemmessage_showquery.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/systemmessage_showquery.ftl
+END
+member_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_input.ftl
+END
+tag_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/tag_input.ftl
+END
+product_daily_record_trend.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_trend.ftl
+END
+menu_left.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_left.ftl
+END
+goods_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/goods_list.ftl
+END
+navigation_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/navigation_list.ftl
+END
+pass_change_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/pass_change_input.ftl
+END
+member_rank_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/member_rank_list.ftl
+END
+successUrl.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5349/rzrk_oa/WebContent/WEB-INF/template/admin/successUrl.ftl
+END
+work_flow_typeinput.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/work_flow_typeinput.ftl
+END
+viewlayer_show_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/viewlayer_show_list.ftl
+END
+order_shipping_print.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_shipping_print.ftl
+END
+menu_order.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_order.ftl
+END
+productnetvalue_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/productnetvalue_input.ftl
+END
+order_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_list.ftl
+END
+delivery_template_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_template_input.ftl
+END
+comment_setting.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/comment_setting.ftl
+END
+check_myWorkCheck.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/5380/rzrk_oa/WebContent/WEB-INF/template/admin/check_myWorkCheck.ftl
+END
+message_outbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/message_outbox.ftl
+END
+reship_view.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/reship_view.ftl
+END
+brand_circle_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/brand_circle_list.ftl
+END
+menu_goods.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_goods.ftl
+END
+menu_member.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/menu_member.ftl
+END
+productnetvalue_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/productnetvalue_list.ftl
+END
+product_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_input.ftl
+END
+check_external_request_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myproject/!svn/ver/5422/rzrk_oa/WebContent/WEB-INF/template/admin/check_external_request_check.ftl
+END
+comment_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/comment_list.ftl
+END
+order_process.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_process.ftl
+END
+work_editworkCheck.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/5420/rzrk_oa/WebContent/WEB-INF/template/admin/work_editworkCheck.ftl
+END
+contract_category_script.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/contract_category_script.ftl
+END
+query_history_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/query_history_list.ftl
+END
+user_plan_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/myproject/!svn/ver/5404/rzrk_oa/WebContent/WEB-INF/template/admin/user_plan_list.ftl
+END
+success.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/success.ftl
+END
+refund_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/refund_list.ftl
+END
+friend_link_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/friend_link_input.ftl
+END
+delivery_corp_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/delivery_corp_list.ftl
+END
+index_navigator_item_itemlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/index_navigator_item_itemlist.ftl
+END
+build_html_all_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/build_html_all_input.ftl
+END
+order_order_print.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/order_order_print.ftl
+END
+product_daily_record_jingzhi.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/product_daily_record_jingzhi.ftl
+END
+check_confirm_receipt_check.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/check_confirm_receipt_check.ftl
+END
+specification_input.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/template/admin/specification_input.ftl
+END
+admin_list.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/5377/rzrk_oa/WebContent/WEB-INF/template/admin/admin_list.ftl
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/tld
+END
+struts.tld
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/tld/struts.tld
+END
+oscache.tld
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/tld/oscache.tld
+END
+security.tld
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/WebContent/WEB-INF/tld/security.tld
+END

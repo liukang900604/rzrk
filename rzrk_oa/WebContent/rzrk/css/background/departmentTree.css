@@ -1,0 +1,4 @@
+.tree.tree-lines .tree-folder{background: url('/rzrk/images/background/icons/tree_d_icons.png') no-repeat -208px 0;}
+.tree.tree-lines .tree-folder-open{background: url('/rzrk/images/background/icons/tree_d_icons.png') no-repeat -224px 0;}
+.tree.tree-lines .tree-file{background: url('/rzrk/images/background/icons/tree_d_icons.png') no-repeat -240px 0;}
+.tree.tree-lines div[class*='tree-root'] span.tree-icon.tree-folder,.department div[class*='tree-root'] span.tree-icon.tree-folder.tree-folder-open{background: url('/rzrk/images/background/icons/tree_d_icons.png') no-repeat right -36px;}

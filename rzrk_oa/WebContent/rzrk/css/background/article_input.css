@@ -1,0 +1,17 @@
+body{margin:0;padding:10px 10px 0;}
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+span.error{color:red;margin-left:10px;}
+table{table-layout: fixed;}
+table tr td:first-child{text-align: right;}
+table tr td input[name='article.title']{width:500px;}
+table tr td textarea#editor{width:1000px;}
+select{width:200px;padding:3px 3px 2px;}
+select, textarea{border: 1px solid #ddd;}
+
+ul{border: 1px solid gray;line-height: 24px;list-style: none;padding:0 0 10px 10px;margin:0;background-color: #fff;}
+ul:after{display: block;height: 0;content:"";clear: both;}
+ul li{float:left;background-color: #eff2f7;border: 1px solid #ccd5e4;margin:10px 10px 0 0;padding:0 5px;cursor: default;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;}
+ul li span{margin-left: 5px;font-weight: bold;color: #a6b3cf;text-decoration: none;cursor: pointer;}
+ul li.addColleague{border:0;background-color: transparent;}
+ul li.addColleague a{color:#37a;text-decoration: none;}
+.combobox-item{cursor: pointer;}

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC  
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"  
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+
+	<constant name="struts.devMode" value="true" />
+	<constant name="struts.custom.i18n.resources" value="i18n" />
+	<constant name="struts.i18n.reload" value="false" />
+	<constant name="struts.convention.classes.reload" value="false" />
+	<constant name="struts.convention.action.packages" value="com.rzrk.action" />
+	<constant name="struts.convention.action.mapallmatches" value="true"/>
+	<constant name="struts.enable.DynamicMethodInvocation" value="true"/>
+	<constant name="struts.serve.static.browserCache" value="true" />
+	<constant name="struts.objectFactory" value="spring" />
+	<constant name="struts.ui.theme" value="simple" />
+	<constant name="struts.i18n.encoding" value="UTF-8" />
+	<constant name="struts.action.extension" value="action" />
+	<constant name="struts.multipart.maxSize" value="-1" />
+	<constant name="struts.convention.result.path" value="/WEB-INF/template/" />
+	<constant name="struts.convention.action.name.separator" value="_" />
+	<constant name="struts.freemarker.manager.classname" value="com.rzrk.common.FreemarkerManager" />
+	
+	<package name="basePackage" extends="struts-default">
+		<interceptors>
+			<interceptor-stack name="baseStack">
+                <interceptor-ref name="exception" />
+                <interceptor-ref name="alias" />
+                <interceptor-ref name="servletConfig" />
+                <interceptor-ref name="i18n" />
+                <interceptor-ref name="prepare" />
+                <interceptor-ref name="chain" />
+                <interceptor-ref name="debugging" />
+                <interceptor-ref name="scopedModelDriven" />
+                <interceptor-ref name="modelDriven" />
+                <interceptor-ref name="checkbox" />
+                <interceptor-ref name="multiselect" />
+                <interceptor-ref name="staticParams" />
+                <interceptor-ref name="actionMappingParams" />
+                <interceptor-ref name="params">
+					<param name="excludeParams">dojo\..*,^struts\..*,.*\\u0023.*,.*\\x5Cu0023.*,.*\\x5cu0023.*</param>
+                </interceptor-ref>
+                <interceptor-ref name="conversionError" />
+                <interceptor-ref name="validation">
+                    <param name="excludeMethods">input,back,cancel,browse</param>
+                    <param name="validateAnnotatedMethodOnly">true</param>
+                </interceptor-ref>
+                <interceptor-ref name="workflow">
+                    <param name="excludeMethods">input,back,cancel,browse</param>
+                </interceptor-ref>
+            </interceptor-stack>
+		</interceptors>
+
+		<default-interceptor-ref name="baseStack" />
+
+		<default-action-ref name="errorPage404Action" />
+
+		<action name="errorPage404Action">
+			<result type="redirect">/html/error_page_404.html</result>
+		</action>
+	</package>
+
+	<package name="admin" extends="basePackage" namespace="/admin">
+		<interceptors>
+			<interceptor name="trimInterceptor" class="com.rzrk.interceptor.TrimInterceptor" />
+			<interceptor name="loginInterceptor" class="com.rzrk.interceptor.LoginInterceptor" />
+			<interceptor name="logInterceptor" class="com.rzrk.interceptor.LogInterceptor" />
+			<interceptor-stack name="adminStack">
+				<interceptor-ref name="fileUpload">
+				<!-- 
+					<param name="allowedTypes">image/jpeg,image/pjpeg,image/gif,image/bmp,image/x-ms-bmp,image/png,image/x-png,application/pdf,application/msword,application/octet-stream</param>
+                   -->
+					<param name="allowedExtensions">jpg,gif,bmp,png,txt,doc,xls,ppt,pdf,m4a,mp3,mp4,avi,mkv</param>
+					<param name="maximumSize">2097152</param>
+				</interceptor-ref>
+				<interceptor-ref name="trimInterceptor" />
+				<interceptor-ref name="loginInterceptor" />
+				<interceptor-ref name="logInterceptor" />
+				<interceptor-ref name="baseStack" />
+			</interceptor-stack>
+		</interceptors>
+
+		<default-interceptor-ref name="adminStack" />
+
+		<global-results>
+		    <result name="accessDenied">/html/error_page_access_denied.html</result>
+		    <result name="loginPage">/admin/index.jsp</result>
+			<result name="error" type="freemarker">/WEB-INF/template/admin/error.ftl</result>
+			<result name="ajaxError" type="freemarker">/WEB-INF/template/admin/ajax_error.ftl</result>
+			<result name="success" type="freemarker">/WEB-INF/template/admin/success.ftl</result>
+			<result name="pageUrl" type="freemarker"> ${pageUrl}</result>
+		</global-results>
+	</package>
+
+	<package name="shop" extends="basePackage" namespace="/rzrk">
+		<interceptors>
+			<interceptor name="securityInterceptor" class="com.rzrk.interceptor.SecurityInterceptor" />
+			<interceptor name="trimInterceptor" class="com.rzrk.interceptor.TrimInterceptor" />
+			<interceptor name="memberVerifyInterceptor" class="com.rzrk.interceptor.MemberVerifyInterceptor" />
+			<interceptor-stack name="shopStack">
+				<interceptor-ref name="fileUpload">
+					<param name="allowedTypes">image/jpeg,image/pjpeg,image/gif,image/bmp,image/x-ms-bmp,image/png,image/x-png</param>
+					<param name="maximumSize">2097152</param>
+				</interceptor-ref>
+				<interceptor-ref name="securityInterceptor" />
+				<interceptor-ref name="trimInterceptor" />
+				<interceptor-ref name="baseStack" />
+			</interceptor-stack>
+		</interceptors>
+
+		<default-interceptor-ref name="shopStack" />
+
+		<global-results>
+			<result name="login" type="redirect">
+				<param name="location">/html/login.html</param>
+				<param name="loginRedirectUrl">${loginRedirectUrl}</param>
+			</result>
+			<result name="redirect" type="redirectAction">
+				<param name="namespace">/rzrk</param>
+				<param name="actionName">redirect</param>
+				<param name="redirectUrl">${redirectUrl}</param>
+			</result>
+			<result name="invalid.token" type="freemarker">/WEB-INF/template/rzrk/invalid_token.ftl</result>
+			<result name="error" type="freemarker">/WEB-INF/template/rzrk/error.ftl</result>
+		</global-results>
+	</package>
+
+</struts>

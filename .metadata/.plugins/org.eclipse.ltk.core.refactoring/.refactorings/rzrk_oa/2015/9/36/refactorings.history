@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;success.ftl&apos; to &apos;success.ftl&apos;&#x0D;&#x0A;- Original project: &apos;rzrk_oa&apos;&#x0D;&#x0A;- Destination element: &apos;success.ftl&apos;&#x0D;&#x0A;- Original element: &apos;success.ftl&apos;" description="Copy file" element1="WebContent/WEB-INF/template/admin/success.ftl" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1441437085583" target="/rzrk_oa/WebContent/WEB-INF/template/admin/success.ftl" units="0" version="1.0"/>
+</session>

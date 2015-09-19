@@ -1,0 +1,35 @@
+.container{overflow: inherit;height: auto;}
+.container .info-menu{width:190px;float:left;position:relative;background-color:#fafafa;}
+.container .info-menu > h3{height:30px;line-height:30px;/*background-color:#000;*/background-color:#e0b500;color:#fff;padding-left:20px;vertical-align: middle;}
+.container .info-menu > h3 > a{color:#fff;vertical-align: middle;}
+.container .info-menu > h3 span{color: #fff;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width: 120px;display: inline-block;vertical-align: middle;}
+.container .info-menu .list{padding-top:10px;}
+.container .info-menu .list li{cursor:pointer;padding: 10px 20px;}
+.container .info-menu .list li:hover{background-color:#dcddde;}
+.container .info-menu .list li.selected{background-color:#ebebeb;}
+.container .info-menu .list li span{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.information-full, .information-detail{min-height: 800px;}
+.information-full, .information-detail{width:800px;background-color:#fdfdfd;float: left;}
+.information-full .list ul{padding: 20px;}
+.information-full .list ul li{height: 24px;line-height: 24px;margin-top: 8px;position: relative;color: #dcddde;padding-left: 10px;vertical-align: middle;}
+.information-full .list ul li:hover{background-color: #f0f0f0;}
+.information-full .list ul li a{color: #666;line-height: 24px;width: 650px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;display: inline-block;vertical-align: middle;margin-left: 10px;}
+.information-full .list ul li span.date{color: #666;position: absolute;right: 10px;top: 0;line-height: 24px;}
+.information-full .pagination{text-align: center;}
+.information-full .pagination a{display: inline-block;margin:0 2px;padding: 0 5px;line-height:18px;border: 1px solid #c8c8c8;color: #666;}
+.information-full .pagination a:hover, .information-full .pagination a.selected{background-color: #666666;color: #fff;border-color: #666666;}
+/* information detail */
+.information-detail div.title{text-align: center;padding: 40px 0 ;}
+.information-detail div.title h3{font-size: 16px;margin-bottom: 10px;}
+.information-detail div.title span{color: #666;}
+.information-detail .content{padding: 0px 40px;line-height: 24px;color: #666;}
+.information-detail .bottom-nav{padding: 40px 40px;}
+.information-detail .bottom-nav div{color: #ccc;margin: 10px 0;}
+.information-detail .bottom-nav div a{color: #cfa42f;margin-left: 10px;}
+.information-detail .bottom-nav div a:hover{text-decoration: underline;}
+.container .list-menu{width:190px;float:left;position:relative;background-color:#fafafa;}
+.container .list-menu h3{height:30px;line-height:30px;background-color:#f0f0f0;color:#cfa42f;padding-left:20px;cursor: pointer;}
+.container .list-menu li{margin-top: 20px;}
+.container .list-menu li span{color: #DCDDDE;float: left;margin-left: 10px;}
+.container .list-menu li a{color: #666;float: left;margin-left: 5px;width: 160px;}
+.container .list-menu li a:hover{text-decoration: underline;}

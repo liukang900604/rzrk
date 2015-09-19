@@ -1,0 +1,44 @@
+body{margin:10px 10px 0;font-size:12px;font-family: "Î¢ÈíÑÅºÚ";}
+select[readonly]{background-color: #eee;}
+.window-proxy{border: 1px dashed #0088cc;background-color: #0088cc;filter: alpha(opacity=10);opacity: 0.10;}
+.window-proxy-mask, .window-mask{background: #eee;filter: alpha(opacity=1);opacity: 0.01;}
+.datagrid-wrap{margin-top:10px;}
+.datagrid-view2 .datagrid-body a {color: #0088cc;text-decoration: none;}
+.datagrid-view2 .datagrid-body a:hover {color: #005580;text-decoration: underline;}
+.datagrid-view2 .datagrid-body em {margin: 0 6px 0 5px;color: #0088cc;font-style: normal;}
+.datagrid-view1 .datagrid-body td,
+.datagrid-view2 .datagrid-body td{height: 30px;}
+label{vertical-align: middle;}
+/*.textbox-text{font-family: "å¾®è½¯é›…é»‘";}*/
+.datebox .textbox-text-readonly{cursor: pointer;}
+.datagrid-sort-desc .datagrid-sort-icon, .datagrid-sort-asc .datagrid-sort-icon{padding: 0;}
+
+/* title */
+.datagrid .datagrid-header .datagrid-header-inner,
+.datagrid .datagrid-header .datagrid-header-inner .datagrid-header-row{background-color:#5093e2;color:#fff;}
+.datagrid .datagrid-header td.datagrid-header-over{background-color:#5093e2;color:#fff;}
+.datagrid .datagrid-sort-asc .datagrid-sort-icon{background: url('/rzrk/images/background/icons/datagrid_icons.png') no-repeat 0px center;}
+.datagrid .datagrid-sort-desc .datagrid-sort-icon{background: url('/rzrk/images/background/icons/datagrid_icons.png') no-repeat -16px center;}
+
+/* row */
+.datagrid .datagrid-btable .datagrid-row-over,
+.datagrid .datagrid-btable .datagrid-row-selected{background-color:#c2dfff !important;color:#444;}
+
+/* bg */
+.t-tree .datagrid .datagrid-body,
+.datagrid .datagrid-body > .datagrid-btable{background: transparent url("/rzrk/images/background/icons/datagrid-bg.png") left top repeat;}
+.t-tree .datagrid .datagrid-body .datagrid-btable{background: transparent;width:100%;}
+
+.datagrid-header td{border-color:#cfe5fe;}
+.datagrid-body td{border-color:transparent;border-top:0;border-bottom:0;}
+.datagrid-footer td{border:0;}
+
+/* pager */
+.datagrid .datagrid-pager table tr{background-color:transparent;}
+.datagrid .datagrid-pager select, .datagrid .datagrid-pager input{border: 1px solid #5093e2;font-size:12px;}
+
+/* buttons */
+.easyui-linkbutton .l-btn-left{background-color:#5093e2;color:#fff;}
+
+/* combo */
+.textbox.combo, .textbox.searchbox{border: 1px solid #5093e2;}

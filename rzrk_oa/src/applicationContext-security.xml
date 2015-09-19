@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	   xmlns="http://www.springframework.org/schema/beans" 
+	   xmlns:sec="http://www.springframework.org/schema/security"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+       http://www.springframework.org/schema/security
+       http://www.springframework.org/schema/security/spring-security-2.0.4.xsd"
+       default-lazy-init="true">
+	
+	<sec:http auto-config="true" servlet-api-provision="false" access-denied-page="/html/error_page_access_denied.html">
+		<sec:form-login login-page="/admin/index.jsp" login-processing-url="/admin/login/check" default-target-url="/admin/page!main.action" authentication-failure-url="/admin/index.jsp" always-use-default-target="true"  />
+		<sec:logout invalidate-session="true" logout-success-url="/admin/index.jsp" logout-url="/admin/logout" />
+		
+		<!-- 后台登录 -->
+		<sec:intercept-url pattern="/admin/index.jsp" filters="none" />
+		<!--内容管理-->
+		<!-- <sec:intercept-url pattern="/admin/article!**" access="ROLE_CONTENT" />  -->
+		<!--文章管理-->
+		<sec:intercept-url pattern="/admin/article!**" access="ROLE_CONTENT_ARTICLE" />
+		
+		 <!--基础分类-->
+<!-- 		 <sec:intercept-url pattern="" access="ROLE_BASE_TYPE" /> -->
+		 <!--一级分类-->
+		 <sec:intercept-url pattern="/admin/root_contract_category!**" access="ROLE_BASE_TYPE_ONE" />
+		 <!--二级分类-->
+         <sec:intercept-url pattern="/admin/contract_category!getPermissionField.action" filters="none"/>
+		 <sec:intercept-url pattern="/admin/contract_category!**" access="ROLE_BASE_TYPE_TWO" />
+		  <!--项目列表-->
+		 <sec:intercept-url pattern="/admin/'project!**" access="ROLE_BASE_TYPE_PROJECT_LIST" />
+		 
+		 <sec:intercept-url pattern="/admin/contract!ajaxGetListLoadTest*" filters="none" />
+		 <sec:intercept-url pattern="/admin/project!projectPlanList.action*" filters="none" />
+		 
+		
+
+		
+		<!--信托产品-->
+		<!--<sec:intercept-url pattern="/admin/product!**" access="ROLE_TRUST" />-->
+		<!--产品管理-->
+		<sec:intercept-url pattern="/admin/product!**" access="ROLE_TRUST_PRODUCT" />
+		<!--净值管理-->
+		<sec:intercept-url pattern="/admin/productnetvalue!**" access="ROLE_TRUST_VALUE" />
+		<!--基金管理费收款确认-->
+		<sec:intercept-url pattern="/admin/check!**" access="ROLE_TRUST_CONFIRM_RECEIPT" />
+		
+		
+		
+		
+		<!--基础数据-->
+		<!--<sec:intercept-url pattern="/admin/stockindex!**" access="ROLE_BASIS" />-->
+		<!--股指管理-->
+		<sec:intercept-url pattern="/admin/stockindex!**" access="ROLE_BASE_STOCK" />
+		
+		
+		<!--客户管理-->
+		<!--<sec:intercept-url pattern="/admin/member!**" access="ROLE_CLIENT" />-->
+		<!--客户管理产品-->
+		<sec:intercept-url pattern="/admin/member!**" access="ROLE_CLIENT_PRODUCT" />
+		
+<!-- 		<sec:intercept-url pattern="/admin/upload!xuntouExcelUpload*" access="ROLE_INTERIOR_COLLECT"/> -->
+		
+		<!--预约认购-->
+		<!--<sec:intercept-url pattern="/admin/reservations!**" access="ROLE_MAKE" />-->
+		<!--认购列表-->
+		<sec:intercept-url pattern="/admin/reservations!**" access="ROLE_MAKE_SUBSCRIBE" />
+		
+		
+		
+		<!--HR管理-->
+		<!--<sec:intercept-url pattern="/admin/deparment!**" access="ROLE_HR" />-->
+		<!--部门信息-->
+		<sec:intercept-url pattern="/admin/deparment!get*" filters="none"/>
+		<sec:intercept-url pattern="/admin/deparment!**" access="ROLE_HR_DEPINFO" />
+		<!--岗位管理-->
+		<sec:intercept-url pattern="/admin/job!get*" filters="none"/>
+		<sec:intercept-url pattern="/admin/job!**" access="ROLE_HR_POST" />
+		<!--职务级别-->
+		<sec:intercept-url pattern="/admin/job_level!get*" filters="none"/>
+		<sec:intercept-url pattern="/admin/job_level!**" access="ROLE_HR_POSITION" />
+		<!--角色管理-->
+		<sec:intercept-url pattern="/admin/role!get*" filters="none"/>
+		<sec:intercept-url pattern="/admin/role!**" access="ROLE_HR_ROLE" />
+		<!--人员信息-->
+		<sec:intercept-url pattern="/admin/admin!get*" filters="none"/>
+		<sec:intercept-url pattern="/admin/admin!**" access="ROLE_HR_STAFF" />
+		
+		
+		
+		
+		<!--操作日志-->
+		<!--  <sec:intercept-url pattern="/admin/log!**" access="ROLE_LOG" />-->
+		<!--查看日志-->
+		<sec:intercept-url pattern="/admin/log!**" access="ROLE_LOG_SEARCH" />
+		<!--系统消息-->
+		<sec:intercept-url pattern="/admin/systemmessage!**" access="ROLE_LOG_SYSYEM_MESSAGE" />
+		
+		
+		
+		<!--内部管理-->
+		<!--<sec:intercept-url pattern="/admin/product!**" access="ROLE_INTERIOR" />-->
+		<!--产品每日汇总列表-->
+		<sec:intercept-url pattern="/admin/product_daily_record!**" access="ROLE_INTERIOR_COLLECT" />
+		<!--考勤记录-->
+		<sec:intercept-url pattern="/admin/checkin!**" access="ROLE_INTERIOR_ATTENDANCE" />
+		
+		
+		
+		<!--工作流-->
+		<!--<sec:intercept-url pattern="/admin/work_flow!**" access="ROLE_WORKFLOW" />-->
+	
+		<!--工作流定义-->
+		<sec:intercept-url pattern="/admin/work_flow!**" access="ROLE_WORKFLOW_DEFINITION" />
+		<!--工作流流程-->
+		<sec:intercept-url pattern="/admin/work!**" access="ROLE_WORK_CREATE" />
+		
+		<!--我的工作-->
+		<sec:intercept-url pattern="/admin/work!**" access="ROLE_WORKFLOW_MYWORK" />
+		<!--工作审批-->
+		<sec:intercept-url pattern="/admin/work!**" access="ROLE_WORKFLOW_WORKAUDIT" />
+		<!--工作查询-->
+		<sec:intercept-url pattern="/admin/work!**" access="ROLE_WORKFLOW_WORKSEARCH" />
+		<!--我的进展工作-->
+		<sec:intercept-url pattern="/admin/work!getMyProcessWork.action" access="ROLE_WORKFLOW_MYPROCESSWORK" /> 
+		
+		
+		<!-- 项目管理 -->
+		<!-- 我的项目 -->
+		<sec:intercept-url pattern="/admin/project!**" access="ROLE_PROJECT_MY_PROJECT" />
+		
+		<!-- 开放特殊流程审批保存、增加需求，增加bug需求三个url -->
+		<sec:intercept-url pattern="/admin/check!save" filters="none"/>
+		<sec:intercept-url pattern="/admin/check!addRequirementList" filters="none"/>
+		<sec:intercept-url pattern="/admin/check!addBugList" filters="none"/>
+		<!-- 需求开发管理 -->
+		<sec:intercept-url pattern="/admin/check!**" access="ROLE_WORKFLOW_DEVELOPMENT" />
+		<!--外部需求审批-->
+		<sec:intercept-url pattern="/admin/check!addExternalRequestWork.action" access="ROLE_WORKFLOW_EXTERNAL_REQUIREMENT" />
+		<!--内部需求审批-->
+		<sec:intercept-url pattern="/admin/check!addInsideRequestWork.action" access="ROLE_WORKFLOW_INTERNAL_REQUIREMENT" />
+		<!--提交开发审批-->
+		<sec:intercept-url pattern="/admin/check!addDevelopmentWork.action" access="ROLE_WORKFLOW_REQUIREMENT_DEVELOPMENT" />
+		<!--部署提交审批-->
+		<sec:intercept-url pattern="/admin/check!addDeploySubmitWork.action" access="ROLE_WORKFLOW_DEVELOPMENT_DEPLOY" />
+		<!--紧急部署提交审批-->
+		<sec:intercept-url pattern="/admin/check!addUrgentDeploySubmitWork.action" access="ROLE_WORKFLOW_DEVELOPMENT_URGENT_DEPLOY" />
+		<!--线上bug提交审批-->
+		<sec:intercept-url pattern="/admin/check!addOnlinBugSubmitWork.action" access="ROLE_WORKFLOW_DEVELOPMENT_ONLINE" />
+		<!--我的审批 -->
+		<sec:intercept-url pattern="/admin/check!getWorkCheck.action" access="ROLE_WORKFLOW_REQUIREMENT_MYWORK" /> 
+		
+		
+		 <!--测试-->
+	<!--	<sec:intercept-url pattern="/admin/work_flow!**" access="ROLE_WORKFLOW_TEST" /> -->
+	</sec:http>
+
+	<sec:authentication-provider user-service-ref="adminDetailsServiceImpl">
+		<sec:password-encoder hash="md5" />
+	</sec:authentication-provider>
+
+</beans>

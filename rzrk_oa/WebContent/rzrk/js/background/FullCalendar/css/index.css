@@ -1,0 +1,68 @@
+body{
+	font-size:12px;
+}
+#calendar {
+    width: 900px;
+}
+th.fc-widget-header{
+    height: 30px;
+    line-height: 30px;
+}
+td.fc-widget-content{
+    height: 123px;
+}
+td.fc-sun, td.fc-sat {
+    background-color: #fff0f0;
+}
+.fc-day-number {
+    font-weight: bold;
+    color: #666;
+}
+.fc-event{
+    cursor: pointer;
+    position: relative;
+}
+.fc-event input{
+    margin: 0 5px 3px 0;
+    vertical-align: middle;
+}
+.fc-event .delete{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    color: #0088cc;
+    text-decoration: none;
+}
+.fc-event-title{
+	float: left;
+	margin:3px 0 0 5px;
+}
+.ui-dialog .ui-dialog-content{
+    overflow: hidden;
+}
+#dialog input{
+    margin: 0 5px 0 0;
+    vertical-align: middle;
+}
+#calendar{position: relative;}
+#calendar tr:hover{background-color: transparent;}
+.container-fluid{
+    float:left;
+    padding-top: 20px;
+}
+
+.setCurrentMonthData{
+    position: absolute;
+    right: 62px;
+    top: 0;
+}
+
+#day, #night{
+	margin:0 3px 0 0;
+	vertical-align: middle;
+}
+
+.window{background-color: #0088cc;}
+.window .panel-title{color:#fff;}
+.window-proxy{border: 1px dashed #0088cc;background-color: #0088cc;filter: alpha(opacity=10);opacity: 0.10;}
+.window-proxy-mask, .window-mask{background: #eee;filter: alpha(opacity=1);opacity: 0.01;}

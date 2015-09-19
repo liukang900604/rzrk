@@ -1,0 +1,46 @@
+.container{overflow: inherit;height: auto;}
+.container .about-menu{width:190px;float:left;position:relative;background-color:#fafafa;}
+.container .about-menu > h3{height:30px;line-height:30px;/*background-color:#000;*/background-color:#e0b500;color:#fff;padding-left:20px;vertical-align: middle;}
+.container .about-menu > h3 > a{color:#fff;vertical-align: middle;}
+.container .about-menu > h3 span{color: #fff;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;width: 100px;display: inline-block;vertical-align: middle;}
+.container .about-menu .list{padding-top:10px;}
+.container .about-menu .list li{cursor:pointer;padding: 10px 20px;}
+.container .about-menu .list li:hover{background-color:#dcddde;}
+.container .about-menu .list li.selected{background-color:#ebebeb;}
+.container .about-menu .list li span{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+/* about detail */
+.container .about-detail{width:800px;background-color:#fdfdfd;float: left;color: #666;}
+.container .about-detail .about-wrap{padding: 15px 20px;min-height: 600px;float: left;}
+.container .about-detail .about-wrap h3{color: #cfa42f;font-weight: bold;}
+/* about summary */
+.container .about-detail .about-summary p{margin-top: 10px;line-height: 24px;}
+.container .about-detail .about-summary .section2{margin-top: 50px;}
+.container .about-detail .about-summary .image-row{margin-top: 50px;}
+.container .about-detail .about-summary .image-row a{margin: 10px 10px 0 0;display:inline-block;}
+.lb-data .lb-caption{font-weight: normal;line-height: 16px;}
+/* about framework */
+.container .about-detail .about-framework img{margin: 20px 40px;}
+.container .about-detail .about-framework p{margin-top: 10px;line-height: 24px;}
+.container .about-detail .about-framework p.li{margin: 10px 0 10px 30px;line-height: 24px;padding-left: 20px;position: relative;}
+.container .about-detail .about-framework p.li span{color: #cfa42f;font-size: 9px;font-weight: bold;position: absolute;left: 0;top: 0;}
+/* about idea */
+.container .about-detail .about-idea p{margin-top: 10px;line-height: 28px;}
+.container .about-detail .about-idea img{margin: 20px 0 20px 150px;}
+/* about flow */
+.container .about-detail .about-flow p{margin-top: 10px;line-height: 24px;}
+.container .about-detail .about-flow .img{text-align: center;margin-top: 20px;;}
+/* about system */
+.container .about-detail .about-system p{margin-top: 10px;line-height: 24px;}
+.container .about-detail .about-system p.li{margin: 10px 0 10px 50px;line-height: 24px;padding-left: 20px;position: relative;}
+.container .about-detail .about-system p.li span{color: #cfa42f;font-size: 16px;font-weight: bold;position: absolute;left: 0;top: 0;}
+.container .about-detail .about-system .img{text-align: center;}
+/* about honout */
+.container .about-detail .about-honour p{margin: 10px 40px 10px 0;line-height: 24px;padding-left: 20px;position: relative;}
+.container .about-detail .about-honour p span{color: #cfa42f;font-size: 16px;font-weight: bold;position: absolute;left: 0;top: 0px;}
+.container .about-detail .about-honour p img{margin-left: 20px;}
+/* about contact */
+.container .about-detail .about-contact p{margin-top: 10px;line-height: 24px;}
+.container .about-detail .about-contact p a{color: #cfa42f;}
+.container .about-detail .about-contact #map_canvas{margin-top: 10px;;width: 400px;height: 300px;}
+.container .about-detail .about-contact .info{font-size: 12px;}
+

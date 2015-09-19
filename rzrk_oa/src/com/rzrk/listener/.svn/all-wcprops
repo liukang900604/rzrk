@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/listener
+END
+InitLog4jListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/listener/InitLog4jListener.java
+END
+InitializableServletContextListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/listener/InitializableServletContextListener.java
+END
+ShutDownHookListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/listener/ShutDownHookListener.java
+END
+AdminSecurityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/listener/AdminSecurityListener.java
+END

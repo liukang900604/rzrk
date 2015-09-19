@@ -1,0 +1,10 @@
+body{overflow-y: auto;}
+input{color: #444;font-size:12px;padding:3px 3px 2px;border: 1px solid #ddd;}
+span.error{color:red;margin-left:10px;}
+.warnInfo {
+	line-height: 30px;
+	padding: 5px 5px 5px 20px;
+	border: 1px solid #ffca80;
+	background: url(/template/admin/images/base_icon.gif) no-repeat 0px -420px #fffee2;
+}
+.listTable{table-layout: fixed;width:100%;}

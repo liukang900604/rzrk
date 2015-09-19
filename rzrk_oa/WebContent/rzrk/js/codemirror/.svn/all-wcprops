@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/package.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/.travis.yml
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/.gitignore
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/index.html
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/README.md
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/AUTHORS
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/CONTRIBUTING.md
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/.gitattributes
+END
+.npmignore
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/.npmignore
+END
+bower.json
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/myproject/!svn/ver/5373/rzrk_oa/WebContent/rzrk/js/codemirror/bower.json
+END

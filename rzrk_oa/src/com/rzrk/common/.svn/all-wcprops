@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/common
+END
+CaptchaEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/CaptchaEngine.java
+END
+GzipResponseStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/GzipResponseStream.java
+END
+DictionaryItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/common/DictionaryItem.java
+END
+GzipResponseWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/GzipResponseWrapper.java
+END
+FreemarkerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/FreemarkerManager.java
+END
+CheckInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/common/CheckInfo.java
+END
+DatabaseNamingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/DatabaseNamingStrategy.java
+END
+Dictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/myproject/!svn/ver/4979/rzrk_oa/src/com/rzrk/common/Dictionary.java
+END
+Returns.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/myproject/!svn/ver/5446/rzrk_oa/src/com/rzrk/common/Returns.java
+END
+DateConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/myproject/!svn/ver/4982/rzrk_oa/src/com/rzrk/common/DateConverter.java
+END
